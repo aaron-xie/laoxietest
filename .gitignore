@@ -1,0 +1,10 @@
+# 过滤文件夹
+/dist
+audio/
+node_modules/
+
+# 过滤文件
+/doc/readme.md
+*.zip
+*.rar
+*.mp4
